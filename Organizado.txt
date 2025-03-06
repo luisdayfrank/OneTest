@@ -1,0 +1,7 @@
+N°	Fecha	Liga	Equipos	Total Ptos	Set 1	Set 2	Set 3	Set 4	Extra	W o L
+1	Standings	GERMANY	Chemnitz	72	17	25	14	16		W
+	02.03. 11:30	BBL	Bayern	94	12	12	30	29		
+2	Standings	EUROPE	Paris	93	23	24	24	33		L
+	27.02. 15:30	Euroleague	Bayern	88	15	23	30	20		
+3	Standings	GERMANY	AOT	99	17	21	24	18	19	W
+	02.02. 11:30	BBL	Bayern	86	17	24	15	24	6	
